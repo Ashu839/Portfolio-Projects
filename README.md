@@ -33,3 +33,20 @@ The complete Dashboard link --
 
 https://public.tableau.com/app/profile/ashutosh.tiwari5545/viz/SalesInsight_16821709635010/Dashboard1?publish=yes
 
+
+# More Project on Data Visualization using Tableau..
+
+
+# 1.European Bank Data Analysis.
+  
+  https://public.tableau.com/app/profile/ashutosh.tiwari5545/viz/EuropeanBankCustomerAnalysis_16806762020040/Dashboard1
+  
+  ![Screenshot 2023-04-22 213728](https://user-images.githubusercontent.com/64872029/233794932-4ee10f1f-855b-4f56-8643-4edc8216fd70.png)
+
+
+# 2.HR Data Analysis.
+
+https://public.tableau.com/app/profile/ashutosh.tiwari5545/viz/HRDataAnalysis_16806764802110/Dashboard1
+
+![Screenshot 2023-04-22 213916](https://user-images.githubusercontent.com/64872029/233795000-9bd5fb80-4264-493a-b842-ad683f5bdf24.png)
+
